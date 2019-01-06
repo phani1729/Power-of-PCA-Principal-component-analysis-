@@ -5,5 +5,5 @@ For detail description of dataset and features, Please go through **https://arch
 
 This dataset contains 45 features and we have to predict whether the pateient health is normal or abnormal.
 
-For demonstration purpose, I'm using only spectf test data.
+By applying PCA, we have reduced number of features to 20 which explained 95% of the variance in the data and then applied Random Forest Algorithm to predict the output.
 
